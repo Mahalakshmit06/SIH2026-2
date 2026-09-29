@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.streamlit/secrets.toml
+.output/
+demo_reports/
+reports_demo/
